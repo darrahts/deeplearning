@@ -16,3 +16,5 @@ collection of jupyter notebooks for deep learning
 - traffic signs (CNN to classify the european road sign data set)
 - regression (regression with keras)
 - imitation learning (NVIDIA-CNN to train a car to drive!)
+- deeplearning workshop (includes the lab guide, which was somewhat followed)
+- garbage udemy class folder (unnamed course that promised XY and Z but delivered f...) there might be usefull code snippets there
