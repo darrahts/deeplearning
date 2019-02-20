@@ -48,7 +48,7 @@ def gradient_descent(points, params, y , alpha, epochs):
         x2= -b/w2 + (x1*(-w1/w2))
         updatePlot(x1,x2) # <================= comment this out if running in in jupyter notebook
         ce = crossEntropy(points,params, y)
-        print(ce)
+        #print(ce)
     return x1, x2, ce
         
 def updatePlot(x1,x2):
