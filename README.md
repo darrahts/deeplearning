@@ -1,8 +1,6 @@
 # deeplearning
 collection of jupyter notebooks for deep learning
 
-- technically the gradient descent and lane detection don't use any deep learning, I might move them later.
-
 #### Each notebook will download any needed dataset!
 
 #### whats included:
