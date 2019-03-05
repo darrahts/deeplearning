@@ -1,5 +1,5 @@
 # deeplearning
-ollection of jupyter notebooks for deep learning
+collection of jupyter notebooks for deep learning
 
 #### Each notebook will download any needed dataset!
 
